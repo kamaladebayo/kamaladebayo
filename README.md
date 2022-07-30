@@ -1,6 +1,11 @@
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a software developer focused on </p>
+> About me 
+
+<p>I'm a third year undergrad at the University of Lagos, currently studying Systems Engineering.</p>
+<p>My holy grail is to identify and nurture business opportunities to drive growth for companies.</p>
+<p>Building web applications is a unique hobby that perfectly aligns with my career objectives. I am focused on Lit by Google, Progressive Web Apps, Firebase, and Javascript(ReactJS).</p>
+
 
 ## ✉️ Find me on:
 
