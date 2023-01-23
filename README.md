@@ -23,8 +23,8 @@
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kamaladebayo&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kamaladebayo&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kamaladebayo&PAT_1&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kamaladebayo&PAT_1&hide=css,java,html&theme=tokyonight">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kamaladebayo">
 </p>
 
